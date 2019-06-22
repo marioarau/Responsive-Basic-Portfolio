@@ -1,0 +1,137 @@
+
+@media screen and (min-width: 641px) and (max-width: 768px) {
+	#main {
+    	border-top: 1px solid #CCC;
+ 		/* border-bottom: 8px solid #CCC; */
+  		background-image:url(../images/floor-tile.png);
+  		padding: 0 .2em .7em .2em;
+	}
+	#container{
+    	border: 3px solid #ddd;
+		font-size: 1em;
+		margin: auto;
+		padding: 4px 16px;
+		background-color: #fff;
+		position:relative;
+		top: 10px;
+		bottom: 34px;
+	} 
+  	.myname {
+    	float: left;
+    	font-size: 2em;
+    	padding: .8em;
+    	color: #fff;
+    	background-color: #4aaaa5;
+  	}
+	#header {
+		margin:auto !important;
+		background-color: #fff;
+		margin: 0 10%;
+		padding: 0;
+		height: 4em;
+	}
+	.bio-image {
+		width: 50%;
+    	height: 50%;
+    	margin-right: 1.4em;
+    	float:left;
+  	}
+	.topnav {
+    	float: right;
+    	padding: .9em 0;
+    	margin: .4em;
+    	overflow: hidden;
+		font-size:1.2em;
+    }
+}
+@media screen and (max-width: 640px) {
+	#main {
+    	border-top: 1px solid #CCC;
+ 		/* border-bottom: 8px solid #CCC; */
+  		background-image:url(../images/floor-tile.png);
+  		padding: 0 .2em .7em .2em;
+	}
+	#main p {
+  		line-height: 1.7em;
+	}
+	.teal {
+		color: #4aaaa5;
+		font-size: 1.2em;
+	}
+	#container{
+    	border: 3px solid #ddd;
+		font-size: .8em;
+		margin: auto;
+		padding: 4px 16px;
+		background-color: #fff;
+		position:relative;
+		top: 10px;
+		bottom: 34px;
+	} 
+  	.myname {
+    	float: left;
+    	font-size: 1em;
+    	padding: 1.2em;
+    	color: #fff;
+    	background-color: #4aaaa5;
+  	}
+	#header {
+		margin:auto !important;
+		background-color: #fff;
+		margin: 0 10%;
+		padding: 0 0 0 2em;
+		height: 4em;
+	}
+	.bio-image {
+		width: 50%;
+    	height: 50%;
+    	margin-right: 1.4em;
+    	float:left;
+  	}
+	.topnav {
+    	float: right;
+    	padding: .9em 0;
+    	margin: .4em;
+    	overflow: hidden;
+		font-size:.9em;
+    }
+}
+  	.myname {
+    	float: left;
+    	font-size: 2em;
+    	padding: .8em;
+    	color: #fff;
+    	background-color: #4aaaa5;
+  	}
+	
+	#container{
+    	border: 3px solid #ddd;
+		margin: auto;
+		padding: 8px 32px;
+		background-color: #fff;
+		position:relative;
+		top: 34px;
+		bottom: 34px;
+		width: 960px;
+	} 
+	#header {
+		margin:auto !important;
+		background-color: #fff;
+		margin: 0 10%;
+		padding: 0 0 0 24px;
+		width: 960px;
+	}
+	.bio-image {
+		width: 200px;
+    	height: 200px;
+    	margin-right: 20px;
+    	float:left;
+  	}
+	.topnav {
+    	float: right;
+    	padding: 18px 0;
+    	margin: 10px;
+    	overflow: hidden;
+    }
+
+}
